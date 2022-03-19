@@ -1,0 +1,42 @@
+@import "~bootstrap/scss/bootstrap";
+
+
+
+// Variables
+$base-background-color:#f6f2fa;
+
+/* width */
+::-webkit-scrollbar {
+  width: 0.4rem;
+  height: 00.4rem;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  box-shadow: inset 0 0 5px grey;
+  border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: rgb(88, 87, 87);
+  border-radius: 10px;
+}
+
+body {
+  background-color: rgba($color: $base-background-color, $alpha: 1.0);
+}
+
+hover-pointer:hover {
+  cursor: pointer;
+}
+.card_image{
+  object-fit: cover !important;
+  height:150px;
+  align-self: center;
+}
+
+table, th, td {
+  border: 1px solid black;
+  padding: 0.5em;
+}
