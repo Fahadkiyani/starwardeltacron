@@ -28,8 +28,6 @@ PORT=3000
 NODE_ENV=development
 BABEL_ENV=development
 
-REACT_APP_API_BASE_URL=0.0.0.0:5000
-
 REACT_APP_SASS=true
 ```
 ---------------------------------------------------------------------------------------------------------------
