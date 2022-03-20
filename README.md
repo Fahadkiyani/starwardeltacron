@@ -28,9 +28,7 @@ PORT=3000
 NODE_ENV=development
 BABEL_ENV=development
 
-
-REACT_APP_CDN_PATH = http://eutsol.ca:7774/
-REACT_APP_API_BASE_URL=http://eutsol.ca:7774/api/
+REACT_APP_API_BASE_URL=0.0.0.0:5000
 
 REACT_APP_SASS=true
 ```
