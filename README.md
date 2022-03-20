@@ -32,8 +32,8 @@ REACT_APP_SASS=true
 ```
 
 ## Run servers
-Run command ```npm start``` in server directory
-Run command ``` npm start``` in client directory
+1. Run command ```npm start``` in server directory
+2. Run command ``` npm start``` in client directory
 
 All done 👍
 ---------------------------------------------------------------------------------------------------------------
