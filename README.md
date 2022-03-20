@@ -30,6 +30,12 @@ BABEL_ENV=development
 
 REACT_APP_SASS=true
 ```
+
+## Run servers
+Run command ```npm start``` in server directory
+Run command ``` npm start``` in client directory
+
+All done 👍
 ---------------------------------------------------------------------------------------------------------------
 ### Thanks!
 ---------------------------------------------------------------------------------------------------------------
